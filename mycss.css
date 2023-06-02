@@ -1,0 +1,25 @@
+#bimg{
+ background:url(image/Capture.jpg);
+color:rgb(123,234,234);
+height:150;
+}
+
+.bimg1{
+background:url(image/Capture1.jpg );
+}
+a:link
+{text-decoration:none;
+color:red;
+}
+a:visited
+{color:yellow;
+text-decoration: none;
+}
+a:hover
+{color:blue;
+text-decoration: none;
+}
+a:active
+{color:green;
+text-decoration: none;
+}
